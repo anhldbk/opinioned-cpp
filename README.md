@@ -97,3 +97,4 @@ This opinioned document outlines several things to start with programming in C/C
 
 - [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp)
 - [Awesome C++](https://github.com/fffaraz/awesome-cpp)
+- [CMake Examples](https://github.com/pr0g/cmake-examples): A collection of as simple as possible, modern CMake projects
